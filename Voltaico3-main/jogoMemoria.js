@@ -133,7 +133,7 @@ function criarGrid(dim) {
     cartaBase.style.height = '70px'
     cartaBase.style.border = 'solid 1px white'
     cartaBase.style.borderRadius = '4px'
-    cartaBase.style.backgroundColor = 'brown'
+    cartaBase.style.backgroundColor = 'green'
     cartaBase.style.cursor = 'pointer'
 
     let imagemBase = document.createElement('img')
